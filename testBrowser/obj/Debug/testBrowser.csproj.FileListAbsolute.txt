@@ -1,0 +1,13 @@
+c:\users\悠生\documents\visual studio 2013\Projects\testBrowser\testBrowser\bin\Debug\testBrowser.exe.config
+c:\users\悠生\documents\visual studio 2013\Projects\testBrowser\testBrowser\bin\Debug\testBrowser.exe
+c:\users\悠生\documents\visual studio 2013\Projects\testBrowser\testBrowser\bin\Debug\testBrowser.pdb
+c:\users\悠生\documents\visual studio 2013\Projects\testBrowser\testBrowser\obj\Debug\testBrowser.csprojResolveAssemblyReference.cache
+c:\users\悠生\documents\visual studio 2013\Projects\testBrowser\testBrowser\obj\Debug\MainWindow.baml
+c:\users\悠生\documents\visual studio 2013\Projects\testBrowser\testBrowser\obj\Debug\MainWindow.g.cs
+c:\users\悠生\documents\visual studio 2013\Projects\testBrowser\testBrowser\obj\Debug\App.g.cs
+c:\users\悠生\documents\visual studio 2013\Projects\testBrowser\testBrowser\obj\Debug\testBrowser_MarkupCompile.cache
+c:\users\悠生\documents\visual studio 2013\Projects\testBrowser\testBrowser\obj\Debug\testBrowser.g.resources
+c:\users\悠生\documents\visual studio 2013\Projects\testBrowser\testBrowser\obj\Debug\testBrowser.Properties.Resources.resources
+c:\users\悠生\documents\visual studio 2013\Projects\testBrowser\testBrowser\obj\Debug\testBrowser.csproj.GenerateResource.Cache
+c:\users\悠生\documents\visual studio 2013\Projects\testBrowser\testBrowser\obj\Debug\testBrowser.exe
+c:\users\悠生\documents\visual studio 2013\Projects\testBrowser\testBrowser\obj\Debug\testBrowser.pdb
